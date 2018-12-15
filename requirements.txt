@@ -8,3 +8,4 @@ flask-cors
 psycopg2 #postgres
 requests
 alembic
+pymongo
